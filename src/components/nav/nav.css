@@ -3,6 +3,8 @@
    align-items: center;
    justify-content: space-between;
    font-weight: 600;
+   margin: 0 auto;
+   width: 90%;
 }
 .nav_icon img {
     width: 150px;
