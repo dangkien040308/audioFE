@@ -1,0 +1,22 @@
+.nav {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   font-weight: 600;
+}
+.nav_icon img {
+    width: 150px;
+    height: 80px;
+}
+.nav_main {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav_btn {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

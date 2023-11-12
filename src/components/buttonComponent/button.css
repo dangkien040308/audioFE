@@ -1,0 +1,15 @@
+.button_custom1 {
+    padding: 15px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.button_custom1:hover {
+    opacity: 0.7;
+}
+.bigOrange {
+    background-color: #FF8228;
+    color: #fff;
+}
+.normal {
+    background-color: #c7c1c1;
+}
