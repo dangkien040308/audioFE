@@ -7,9 +7,38 @@
     opacity: 0.7;
 }
 .bigOrange {
-    background-color: #FF8228;
+    background-color: #FF6700 ;
     color: #fff;
 }
 .normal {
     background-color: #c7c1c1;
+}
+.button_custom2 {
+    background-color: #FF8228;
+    padding: 10px 15px;
+    font-weight: 600;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.button_circle {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: #fff;
+    border-radius: 999px;
+    margin-right: 7px;
+}
+.button_custom2:hover , .button_custom3:hover {
+    opacity: 0.7;
+}
+.button_custom3 {
+    border-radius: 25px;
+    border: 1px solid #949393 ;
+    padding: 10px 15px;
+    color: #949393;
+    cursor: pointer;
 }

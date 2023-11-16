@@ -1,0 +1,36 @@
+.noteItem {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    width: 23% ;
+    box-shadow: 0 0 7px #fff;
+}
+.noteItem_icon svg {
+    padding: 10px;
+    color: rgb(243, 88, 49);
+    background-color: rgb(255, 174, 136);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.noteItem_title {
+    font-size: 23px;
+    font-weight: 600;
+}
+.noteItem_des {
+    margin: 15px 0;
+    color: #7a7878;
+}
+/*askItem*/
+.bottom_ask-item {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #b8b6b6;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom_ask-item svg {
+    font-size: 19px;
+    margin-top: 5px;
+}

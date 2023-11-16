@@ -11,7 +11,8 @@ export default function Button({type ,content}) {
     if (type === "smallOrange") 
      return (
         <div className={classNames('button_custom2')}>
-         {content}
+         <span className="button_circle"></span>
+         <span>{content}</span>
         </div>     
      )
     if (type === "borderGrey") 
